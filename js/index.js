@@ -1,4 +1,4 @@
-import '../style/main';
+// import '../style/main';
 // import "core-js/features/array/flat-map";
 
 
